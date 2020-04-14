@@ -4,5 +4,5 @@ Kullanılan kütüphaneler:
 -Java swing
 -Apache Commons Math
 
-com/katafrakt : kaynak dosyası
-fem.java : program
+com/katafrakt: kaynak dosyası
+fem.java: program
